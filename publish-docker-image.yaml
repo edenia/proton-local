@@ -1,13 +1,8 @@
 name: Publish Docker image
 
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
 on:
-  release:
-    types: [published]
+  push:
+    branches: main
 
 jobs:
   push_to_registries:
@@ -38,7 +33,7 @@ jobs:
         uses: docker/metadata-action@v3
         with:
           images: |
-            my-docker-hub-namespace/my-docker-hub-repository
+            eoscostarica506/proton-local
             ghcr.io/${{ github.repository }}
       
       - name: Build and push Docker images
