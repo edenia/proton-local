@@ -17,7 +17,7 @@ This project builds the Proton network in a local environment so that testing ca
 ### Why to use a local enviroment?
 Having a local environment provides a series of benefits that you cannot in a public network, for example, with Proton locally, transaction costs are avoided since they are carried out in a development environment and not in production, also, they are accessed to system contracts to modify them as appropriate.
 
-Due to the technology that Blockchain contains, any change in the network creates an immutable record of the action and everything that is modified can affect both positively and negatively the users within it, it is for this reason that it is essential to have an environment premises where functionality tests, performance tests, stress tests, among others, can be carried out without the risk of producing a failure that affects users.
+In a Blockchain network every transaction creates an immutable record and everything that is modified can affect both positively and negatively the users within it, it is for this reason that it is essential to have an environment premises where functionality tests, performance tests, stress tests, among others, can be carried out without the risk of producing a failure that affects users.
 
 Finally, a factor to consider is the time that is reduced in the initial configuration of any network, this image allows directly, with only two commands to have the network installed and ready to perform functionality tests as necessary.
 
