@@ -1,7 +1,11 @@
 <p align="center">
-	<a href="https://eosio.lacchain.net">
-		<img src="https://raw.githubusercontent.com/eoscostarica/proton-affiliate/main/docs/img/proton-xpr-logo.png"
+	<img src="https://raw.githubusercontent.com/eoscostarica/proton-affiliate/main/docs/img/proton-xpr-logo.png"
 		width="400px" >
+</p>
+
+<p align="center">
+	<a href="#">
+		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
 	</a>
 </p>
 
