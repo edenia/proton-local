@@ -5,12 +5,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<a href="#">
-		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
-	</a>
-</p>
-
 ## Description
 This project builds the Proton network in a local environment so that testing can be done before being published on the public network.
 
