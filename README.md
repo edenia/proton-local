@@ -1,8 +1,5 @@
 <p align="center">
-	<a href="https://eosio.lacchain.net">
-		<img src="https://raw.githubusercontent.com/lacchain/eosio.lacchain.net/master/static/img/logos/lacchain-eosio-logo.png"
-		width="400px" >
-	</a>
+	<img src="https://raw.githubusercontent.com/eoscostarica/proton-affiliate/main/docs/img/proton-xpr-logo.png" width="200" >
 </p>
 
 <p align="center">
