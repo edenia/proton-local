@@ -11,7 +11,7 @@
 ## Description
 This project builds the Proton network in a local environment so that testing can be done before being published on the public network.
 
-### Why to use a local enviroment?
+### Why to use a local environment?
 Having a local environment provides a series of benefits that you cannot in a public network, for example, with Proton locally, transaction costs are avoided since they are carried out in a development environment and not in production, also, they are accessed to system contracts to modify them as appropriate.
 
 In a Blockchain network every transaction creates an immutable record and everything that is modified can affect both positively and negatively the users within it, it is for this reason that it is essential to have an environment premises where functionality tests, performance tests, stress tests, among others, can be carried out without the risk of producing a failure that affects users.
@@ -76,7 +76,7 @@ By this point, you already have the Proton network image running locally.
 MIT © [EOS Costa Rica](https://eoscostarica.io/)
 
 ## Contributing
-If you want to make a contribution to this repository, please follow the steps below:
+If you want to contribute to this repository, please follow the steps below:
 
 1. Fork the project
 2. Create a new branch (`git checkout -b feat/sometodo`)
