@@ -24,7 +24,7 @@ The Proton image is based on the `eosio.proton`, `token.proton` and `cfund.proto
 2. **eosio.token**: Defines the structures and actions that allow users to create, issue, and manage tokens for EOSIO-based blockchains.
 3. **eosio.msig**: Allows the creation of proposed transactions that require authorization from a list of accounts.
 
-### Key de configuración
+### Configuration key
 The preconfigured key is the eosio key that allows you to carry out the initial configuration of the network. You can consult it [here](https://github.com/eoscostarica/proton-local/blob/main/Dockerfile#L38).
 ```
 EOSIO_PRIVATE_KEY: 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
@@ -59,7 +59,7 @@ To create the Docker image locally, you must run the following commands:
 By this point, you already have the Proton network image running locally.
 
 ## File structure
-```text title="./lacchain-eosio-local"
+```text title="./proton-local"
 /
 ├── .github
 │   └── workflows
