@@ -102,13 +102,15 @@ But beyond being an app platform with an unified identity model, the Proton bloc
 
 Proton will solve this problem by creating a namespace that works across multiple payment providers, identity verifiers, and payment transmitters. Gone are the days of entering your bank password or credit card number online; crypto and fiat wallets alike now interact as one network to streamline the process of making and receiving payments.
 
-## About EOS Costa Rica
-<br>
-<center>
-<img src="https://raw.githubusercontent.com/eoscostarica/design-assets/master/logos/eosCR/fullColor-horizontal-transparent-white.png" width="400" >
-</center>
-<br>
+## About Edenia
 
-EOS Costa Rica is an independently-owned, self-funded, bare-metal Genesis block producer that provides stable and secure infrastructure for EOSIO blockchains. We support open source software for our community while offering enterprise solutions and custom smart contract development for our clients.
+<p align="center">
+	<a href="https://edenia.com">
+		<img src="https://user-images.githubusercontent.com/5632966/165814672-9a7763a8-9748-405d-8bc0-de0278ce9eb4.png" width="300">
+	</a>
+</p>
+<br/>
 
-[eoscostarica.io](https://eoscostarica.io/)
+Edenia runs independent blockchain infrastructure and develops web3 solutions. Our team of technology-agnostic builders has been operating since 1987, leveraging the newest technologies to make the internet safer, more efficient, and more transparent.
+
+[edenia.com](https://edenia.com/)
