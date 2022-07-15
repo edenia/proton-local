@@ -6,7 +6,6 @@
 	<a href="#">
 		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
 	</a>
-</p>
 
 ## Description
 This project builds the Proton network in a local environment so that testing can be done before being published on the public network.
@@ -106,9 +105,8 @@ Proton will solve this problem by creating a namespace that works across multipl
 
 <div align="center">
 	<a href="https://edenia.com">
-		<img src="https://user-images.githubusercontent.com/5632966/178800854-cffb01ea-b55a-44b2-bcfa-872301874a43.png" width="300">
+		<img src="https://raw.githubusercontent.com/edenia/.github/master/.github/workflows/images/edenia-logo.png" width="300">
 	</a>
-</p>
 
 [![Twitter](https://img.shields.io/twitter/follow/EdeniaWeb3?style=for-the-badge)](https://twitter.com/EdeniaWeb3)
 ![Discord](https://img.shields.io/discord/946500573677625344?color=black&label=discord&logo=discord&logoColor=white&style=for-the-badge)
