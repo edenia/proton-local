@@ -19,6 +19,7 @@ genesis() {
   --blocks-dir blocks \
   --delete-all-blocks \
   --genesis-json genesis.json \
+  --disable-replay-opts \
   >> "nodeos.log" 2>&1 &
 
   while [[ "$(curl -s -o /dev/null -w ''%{http_code}'' localhost:8888/v1/chain/get_info)" != "200" ]]; 
